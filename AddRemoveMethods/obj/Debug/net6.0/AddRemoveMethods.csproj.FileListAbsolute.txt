@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\bin\Debug\net6.0\AddRemoveMethods.exe
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\bin\Debug\net6.0\AddRemoveMethods.deps.json
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\bin\Debug\net6.0\AddRemoveMethods.runtimeconfig.json
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\bin\Debug\net6.0\AddRemoveMethods.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\bin\Debug\net6.0\AddRemoveMethods.pdb
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\obj\Debug\net6.0\AddRemoveMethods.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\obj\Debug\net6.0\AddRemoveMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\obj\Debug\net6.0\AddRemoveMethods.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\obj\Debug\net6.0\AddRemoveMethods.AssemblyInfo.cs
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\obj\Debug\net6.0\AddRemoveMethods.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\obj\Debug\net6.0\AddRemoveMethods.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\obj\Debug\net6.0\refint\AddRemoveMethods.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\obj\Debug\net6.0\AddRemoveMethods.pdb
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\obj\Debug\net6.0\AddRemoveMethods.genruntimeconfig.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(17) 30.08.2023\AddRemoveMethods\AddRemoveMethods\obj\Debug\net6.0\ref\AddRemoveMethods.dll
